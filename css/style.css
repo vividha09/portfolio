@@ -548,7 +548,7 @@ h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-right: 2rem;
+  padding-right: 1rem;
 }
 
 .side-project img {
@@ -785,14 +785,14 @@ footer span {
 
   .project-details-box {
     position: relative;
-    margin-top: 2.5rem;
+    margin-top: 15rem;
     padding: 0;
     max-width: 50%;
   }
 
   .project-main-info {
     position: relative;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 0.8rem;
     background: rgb(38, 50, 67);
     box-shadow: 0 1rem 3rem 0 rgba(27, 27, 27, 0.2);
